@@ -2,6 +2,8 @@
 
 source 'https://rubygems.org'
 
+gem 'bootstrap-sass', '2.3.2.0'
+gem 'sprockets', '2.11.0'
 gem 'rails',        '4.1.5'
 gem 'sass-rails',   '4.0.3'
 gem 'uglifier',     '2.5.1'
